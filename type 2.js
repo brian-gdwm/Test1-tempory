@@ -3,3 +3,5 @@ let test = true
 if(test){
 console.log("hello world") 
 }
+
+if(test){return}
